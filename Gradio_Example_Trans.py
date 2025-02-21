@@ -1,7 +1,7 @@
 import gradio as gr
 
 # 下面請輸入自己的API_KEY
-API_KEY = "AIzaSyB_DcsJTu51KvpR29aVxG9ytjlW7lWPCWw"
+API_KEY = "api key"
 import google.generativeai as genai
 
 model = genai.GenerativeModel('gemini-1.5-flash')
